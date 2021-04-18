@@ -2,7 +2,7 @@
 
 # Overview
 
-This repository houses an analysis of study data from Pymaceuticals on the impact of cancer drug interventions on study mice. Specifically, it contains the following folders:
+This repository houses an analysis of study data from Pymaceuticals on the impact of cancer drug interventions on mice. Specifically, it contains the following folders:
 
 * Pymaceuticals
 * Resources
